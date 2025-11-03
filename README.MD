@@ -9,3 +9,6 @@
 
 ## There is also a detail with the size of the window, it does not stretch, I don't know if it is a Godot configuration of window management.
 ![exoprt image 3](exportando_3.png)
+
+## Godot export details
+![exoprt gif 1](godot_export_details.gif)
